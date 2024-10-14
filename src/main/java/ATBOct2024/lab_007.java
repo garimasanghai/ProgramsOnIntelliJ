@@ -9,5 +9,6 @@ public class lab_007 {
         System.out.println("a || b: " + (a || b));
         System.out.println("!a: " + (!a));
         System.out.println("!b: " + (!b));
+        System.out.println("Boolean is always either true or false");
     }
 }

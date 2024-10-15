@@ -5,7 +5,7 @@ public class lab_003 {
 
         int num = 7;
         // % will replace the value of the variable
-        // after "" u need to write in reverse using variable name
+        // after "" u need to write in reverse using variable name followed by comma ,
 
         System.out.printf("%d x 1 = %d", num, num * 1);
         System.out.printf("\n");

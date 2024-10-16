@@ -2,6 +2,7 @@ package ATBOct2024;
 
 import java.util.Scanner;
 
+// Take a user input - Name, Age and Salary and print them in the end
 public class lab_017 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

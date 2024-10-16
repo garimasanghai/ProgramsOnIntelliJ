@@ -2,6 +2,7 @@ package ATBOct2024;
 
 import java.util.Scanner;
 
+// Take user input 2 num from arguments & cal the max in b/w with ternary operator
 public class lab_018 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

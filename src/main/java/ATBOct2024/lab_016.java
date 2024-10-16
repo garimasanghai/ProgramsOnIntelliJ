@@ -1,5 +1,4 @@
 package ATBOct2024;
-
 import java.util.Scanner;
 
 public class lab_016 {

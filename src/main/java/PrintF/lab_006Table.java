@@ -1,6 +1,6 @@
 package PrintF;
 
-public class lab_006 {
+public class lab_006Table {
     public static void main(String[] args) {
         int num = 9;
         //souf for printf - shorcut

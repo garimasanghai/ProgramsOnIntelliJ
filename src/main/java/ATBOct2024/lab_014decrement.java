@@ -1,6 +1,6 @@
 package ATBOct2024;
 
-public class lab_014 {
+public class lab_014decrement {
     public static void main(String[] args) {
         int a = 20;
 

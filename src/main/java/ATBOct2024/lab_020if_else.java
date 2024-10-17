@@ -2,7 +2,7 @@ package ATBOct2024;
 
 import java.util.Scanner;
 
-public class lab_020 {
+public class lab_020if_else {
     public static void main(String[] args) {
         // There can be multiple conditions:
         //  1 ->  num1 >  num 2

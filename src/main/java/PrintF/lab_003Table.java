@@ -1,6 +1,6 @@
 package PrintF;
 
-public class lab_003 {
+public class lab_003Table {
     public static void main(String[] args) {
 
         int num = 7;

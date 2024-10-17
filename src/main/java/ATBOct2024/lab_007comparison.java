@@ -1,6 +1,6 @@
 package ATBOct2024;
 
-public class lab_007 {
+public class lab_007comparison {
     public static void main(String[] args) {
         // Comparison operators
         boolean a = true;

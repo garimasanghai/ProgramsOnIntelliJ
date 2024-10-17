@@ -2,7 +2,7 @@ package ATBOct2024;
 
 import java.util.Scanner;
 
-public class lab_019 {
+public class lab_019even_odd {
     public static void main(String[] args) {
         // Create a Program - Take user input
         // Check weather the input is even or odd number

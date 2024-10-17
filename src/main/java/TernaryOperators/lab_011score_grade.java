@@ -1,6 +1,6 @@
 package TernaryOperators;
 
-public class lab_011 {
+public class lab_011score_grade {
     public static void main(String[] args) {
 
         // Nested Ternary

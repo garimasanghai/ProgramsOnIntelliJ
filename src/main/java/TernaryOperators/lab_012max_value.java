@@ -1,6 +1,6 @@
 package TernaryOperators;
 
-public class lab_012 {
+public class lab_012max_value {
     public static void main(String[] args) {
 
         //Syntax:- result = (condition1)? "expression1" : (condition2)? "expression2" : "expression3";

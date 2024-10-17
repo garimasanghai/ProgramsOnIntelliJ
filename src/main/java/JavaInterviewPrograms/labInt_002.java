@@ -21,7 +21,7 @@ public class labInt_002 {
         System.out.println("Enter the third value");
         int sideC = sc.nextInt();
 
-        if(sideA == sideB && sideB == sideC && sideC == sideA){
+        if(sideA == sideB && sideB == sideC){
             System.out.println("It is an EQUILATERAL Triangle");
         }
         else if(sideA == sideB || sideB == sideC || sideC == sideA){

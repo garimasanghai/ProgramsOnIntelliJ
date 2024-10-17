@@ -49,5 +49,7 @@ public class labInt_001score_grade {
         else{
             System.out.println("Your grade is F");
         }
+
+        sc.close();
     }
 }

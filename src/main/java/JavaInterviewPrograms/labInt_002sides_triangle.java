@@ -30,6 +30,6 @@ public class labInt_002sides_triangle {
         else{
             System.out.println("It is a SCALENE Triangle");
         }
-
+        sc.close();
     }
 }

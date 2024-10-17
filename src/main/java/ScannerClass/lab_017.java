@@ -1,4 +1,4 @@
-package ATBOct2024;
+package ScannerClass;
 import java.util.Scanner;
 
 //Take a user input - Name, Age and Salary and print them in the end

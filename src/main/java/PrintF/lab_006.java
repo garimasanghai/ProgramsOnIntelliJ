@@ -1,4 +1,4 @@
-package ATBOct2024;
+package PrintF;
 
 public class lab_006 {
     public static void main(String[] args) {

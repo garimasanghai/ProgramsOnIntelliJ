@@ -1,4 +1,4 @@
-package ATBOct2024;
+package TernaryOperators;
 
 public class lab_008 {
     public static void main(String[] args) {

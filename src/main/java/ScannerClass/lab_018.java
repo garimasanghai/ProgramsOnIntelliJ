@@ -1,4 +1,4 @@
-package ATBOct2024;
+package ScannerClass;
 import java.util.Scanner;
 
 //Take user input 2 num from arguments & cal the max in b/w with ternary operator

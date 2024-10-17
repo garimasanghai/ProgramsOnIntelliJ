@@ -28,7 +28,7 @@ package JavaInterviewPrograms;
 
 import java.util.Scanner;
 
-public class labInt_001 {
+public class labInt_001score_grade {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Score");

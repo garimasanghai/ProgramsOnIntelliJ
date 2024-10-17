@@ -11,7 +11,7 @@ side1, side2, side2 → eq, iso, scalene
 
 import java.util.Scanner;
 
-public class labInt_002 {
+public class labInt_002sides_triangle {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println(" Enter the first value");

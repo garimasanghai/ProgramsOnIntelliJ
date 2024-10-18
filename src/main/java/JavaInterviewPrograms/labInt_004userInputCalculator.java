@@ -43,5 +43,6 @@ public class labInt_004userInputCalculator {
         else{
             System.out.println("num2 should be greater than num1");
         }
+        sc.close();
     }
 }

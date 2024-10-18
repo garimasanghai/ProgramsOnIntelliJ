@@ -16,5 +16,6 @@ public class lab_031switchWithoutBreak {
             case 004 -> System.out.println("Sports");
             default -> System.out.println("Yet to be fed in System");
         }
+        sc.close();
     }
 }

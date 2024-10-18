@@ -26,6 +26,7 @@ package JavaInterviewPrograms;
 
 // Step 3: Write the code
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class labInt_001score_grade {
@@ -33,22 +34,28 @@ public class labInt_001score_grade {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Score");
         int score = sc.nextInt();
+        char grade ='F';
 
         if(score<= 90 && score >=100){
-            System.out.println("Your grade is A");
+            grade = 'A';
         }
         else if(score<=89 && score >=80){
-            System.out.println("Your grade is B");
+            grade = 'B';
         }
         else if(score<= 79 && score >=70){
-            System.out.println("Your garde is C");
+            grade = 'C';
         }
         else if(score<=69 && score >= 60){
-            System.out.println("Your grade is D");
+            grade = 'D';
+        }
+        else if (score <= 0 || score > 100) {
+            System.out.println("Kudos!! Aren't you the BRIGHTEST!!!");
+            grade = 'O';
         }
         else{
-            System.out.println("Your grade is F");
+            grade = 'F';
         }
+        System.out.println("Your grade is ---> " + grade);
 
         sc.close();
     }

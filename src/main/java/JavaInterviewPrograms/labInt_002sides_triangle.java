@@ -14,14 +14,17 @@ import java.util.Scanner;
 public class labInt_002sides_triangle {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        System.out.println(" Enter the first value");
-        int sideA = sc.nextInt();
-        System.out.println("Enter the second value");
-        int sideB = sc.nextInt();
-        System.out.println("Enter the third value");
-        int sideC = sc.nextInt();
+        System.out.println("Enter the length of side A: ");
+        double sideA = sc.nextDouble();
+        System.out.println("Enter the length of side B: ");
+        double sideB = sc.nextDouble();
+        System.out.println("Enter the length of side C: ");
+        double sideC = sc.nextDouble();
 
-        if(sideA == sideB && sideB == sideC){
+        if(sideA <= 0 || sideB <= 0 || sideC <=0){
+            System.out.println("INVALID Input: Provide a positive number");
+        }
+        else if(sideA == sideB && sideB == sideC && sideA == sideC){
             System.out.println("It is an EQUILATERAL Triangle");
         }
         else if(sideA == sideB || sideB == sideC || sideC == sideA){

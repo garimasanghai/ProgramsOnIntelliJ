@@ -1,4 +1,4 @@
-package ATBOct2024;
+package SwitchStatement;
 
 public class lab_030switchWithMultipleValue {
     public static void main(String[] args) {

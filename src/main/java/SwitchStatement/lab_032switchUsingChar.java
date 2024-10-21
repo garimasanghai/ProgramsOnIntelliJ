@@ -1,4 +1,4 @@
-package ATBOct2024;
+package SwitchStatement;
 
 public class lab_032switchUsingChar {
     public static void main(String[] args) {

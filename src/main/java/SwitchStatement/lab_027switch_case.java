@@ -1,4 +1,4 @@
-package ATBOct2024;
+package SwitchStatement;
 import java.util.Scanner;
 
 //WAP to print the days if the number is given from 1-7 else invalid input

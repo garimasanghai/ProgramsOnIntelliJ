@@ -1,4 +1,4 @@
-package ATBOct2024;
+package SwitchStatement;
 
 import java.util.Scanner;
 

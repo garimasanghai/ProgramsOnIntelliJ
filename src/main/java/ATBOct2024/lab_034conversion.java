@@ -28,12 +28,12 @@ public class lab_034conversion {
             case 3:
                 System.out.println("Enter Celsius:");
                 double celsius = sc.nextDouble();
-                System.out.println(celsius + " °C = " + ((celsius * 9/5) + 32) + " °F"); //formula
+                System.out.println(celsius + " °C = " + ((celsius * 9 / 5) + 32) + " °F"); //formula
                 break;
             case 4:
                 System.out.println("Enter Fahrenheit:");
                 double fahrenheit = sc.nextDouble();
-                System.out.println(fahrenheit + " °F = " + ((fahrenheit - 32) * 5/9) + " °C"); //formula
+                System.out.println(fahrenheit + " °F = " + ((fahrenheit - 32) * 5 / 9) + " °C"); //formula
                 break;
             default:
                 System.out.println("Invalid choice!");

@@ -96,5 +96,18 @@ public class lab_052StringFuntionspractice {
         System.out.println(s14.endsWith("IntelliJ"));
         System.out.println("This is EndsWith");
         System.out.println(" --------------------");
+
+        //.length
+        String s15 = "Selenium with Java";
+        System.out.println(s15);
+        System.out.println(s15.length());
+
+        //toLowerCase-toUpperCase-isEmpty-isBlank
+        String s16 = "Selenium with Python";
+        System.out.println(s16);
+        System.out.println(s16.toLowerCase());
+        System.out.println(s16.toUpperCase());
+        System.out.println(s16.isEmpty());
+        System.out.println(s16.isBlank());
     }
 }

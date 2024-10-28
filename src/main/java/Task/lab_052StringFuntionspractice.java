@@ -101,13 +101,19 @@ public class lab_052StringFuntionspractice {
         String s15 = "Selenium with Java";
         System.out.println(s15);
         System.out.println(s15.length());
+        System.out.println(".length- Returns the length of the String");
+        System.out.println(" --------------------");
 
         //toLowerCase-toUpperCase-isEmpty-isBlank
         String s16 = "Selenium with Python";
         System.out.println(s16);
         System.out.println(s16.toLowerCase());
+        System.out.println("Changes String to lower Case");
         System.out.println(s16.toUpperCase());
+        System.out.println("Changes String to upper Case");
         System.out.println(s16.isEmpty());
+        System.out.println(".isEmpty- Checks the condition & returns the value as boolean");
         System.out.println(s16.isBlank());
+        System.out.println(".isBlank- Checks the condition & returns the value as boolean");
     }
 }

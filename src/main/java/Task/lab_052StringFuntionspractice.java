@@ -87,14 +87,14 @@ public class lab_052StringFuntionspractice {
         System.out.println(s13);
         // will check the condition & return boolean as output
         System.out.println(s13.startsWith("joo"));
-        System.out.println("This is StartsWith");
+        System.out.println(".startsWith- Checks the condition & returns the value as boolean");
         System.out.println(" --------------------");
 
         //endsWith
         String s14 = "Working in IntelliJ";
         System.out.println(s14);
         System.out.println(s14.endsWith("IntelliJ"));
-        System.out.println("This is EndsWith");
+        System.out.println(".endsWith- Checks the condition & returns the value as boolean");
         System.out.println(" --------------------");
 
         //.length

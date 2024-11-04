@@ -1,5 +1,4 @@
 package Array;
-
 import java.util.Scanner;
 
 public class lab_057arrayFindDuplicates {
@@ -29,18 +28,13 @@ public class lab_057arrayFindDuplicates {
 
                     System.out.println("Duplicate found");
                 }
-
             }
         }
         /*for (int j = 0; j<num.length; j++) {
             for (int k = j+1; k < num.length; k++) {
-
                 if (num[j] == num[k]) {
-
-                    System.out.println("Duplicate found");
-
+                 System.out.println("Duplicate found");
                 }
-
             }
         }*/
     }

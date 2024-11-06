@@ -1,8 +1,6 @@
 package Array;
 
-import java.util.Scanner;
-
-public class lab_065arraySquare {
+public class lab_065arraySquareRecTri {
     public static void main(String[] args) {
         System.out.println("It's a Rectangle");
         String [][] matrix = {{"*","*","*","*"}, {"*","*","*","*"}, {"*","*","*","*"}, {"*","*","*","*"}};

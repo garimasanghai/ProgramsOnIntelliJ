@@ -1,4 +1,4 @@
-package ForLoop;
+package JavaInterviewPrograms;
 
 public class lab_036evenOddUsingLoop {
     public static void main(String[] args) {

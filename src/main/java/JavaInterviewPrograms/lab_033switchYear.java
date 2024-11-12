@@ -1,4 +1,4 @@
-package SwitchStatement;
+package JavaInterviewPrograms;
 
 import java.util.Scanner;
 /*

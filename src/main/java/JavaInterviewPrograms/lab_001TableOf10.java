@@ -1,4 +1,4 @@
-package ATBOct2024;
+package JavaInterviewPrograms;
 
 public class lab_001TableOf10 {
     public static void main(String[] args) {

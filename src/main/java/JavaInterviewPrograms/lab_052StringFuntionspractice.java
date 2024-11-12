@@ -1,4 +1,4 @@
-package Task;
+package JavaInterviewPrograms;
 
 public class lab_052StringFuntionspractice {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package WhileLoop;
+package JavaInterviewPrograms;
 
 public class lab_043conversionStringToInt {
     public static void main(String[] args) {

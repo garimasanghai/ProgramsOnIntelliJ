@@ -1,4 +1,4 @@
-package TernaryOperators;
+package JavaInterviewPrograms;
 
 public class lab_012max_value {
     public static void main(String[] args) {

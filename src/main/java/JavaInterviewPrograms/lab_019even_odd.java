@@ -1,4 +1,4 @@
-package ATBOct2024;
+package JavaInterviewPrograms;
 
 import java.util.Scanner;
 

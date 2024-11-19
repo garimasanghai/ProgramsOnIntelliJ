@@ -1,4 +1,4 @@
-package WrapperException;
+package Wrapper_Exceptions;
 
 public class exceptionsDemo17 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package WrapperException;
+package Wrapper_Exceptions;
 
 public class bankExCustomException {
     public static void main(String[] args) throws Exception {

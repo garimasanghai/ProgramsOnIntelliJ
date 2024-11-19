@@ -1,12 +1,12 @@
-package WrapperException;
+package Wrapper_Exceptions;
 
-public class exceptionsDemo4 {
+public class exceptionsDemo3 {
     public static void main(String[] args) {
         System.out.println("Start of program");
 
-        String ip = args[0]; // ArrayIndexOutOfBoundsException
-        int a = Integer.parseInt(ip); // NumberFormatException: For input string: "pramod"
-        int b = 1000 / a; // ArithmeticException: / by zero
+        String ip = args[0];
+        int a = Integer.parseInt(ip);
+        int b = 1000 / a;
         System.out.println(b);
 
         System.out.println("End of program");
@@ -19,8 +19,6 @@ public class exceptionsDemo4 {
         // 2) Lab174_Exception.main()
         //Now Control will be transferred from main Thread to main method
         // When problem comes in main -> JVM
-        // If you don't handle the exception JVM will handle it
-        // Always terminate the program with exception
 
     }
 }

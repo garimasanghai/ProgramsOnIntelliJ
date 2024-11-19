@@ -1,4 +1,4 @@
-package WrapperException;
+package Wrapper_Exceptions;
 
 public class finally_not_exe {
     public static void main(String[] args) {

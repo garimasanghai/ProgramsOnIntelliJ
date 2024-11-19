@@ -1,4 +1,4 @@
-package WrapperException;
+package Wrapper_Exceptions;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

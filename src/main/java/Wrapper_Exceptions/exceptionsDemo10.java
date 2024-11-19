@@ -1,4 +1,4 @@
-package WrapperException;
+package Wrapper_Exceptions;
 
 //Exceptions using Or |
 public class exceptionsDemo10 {

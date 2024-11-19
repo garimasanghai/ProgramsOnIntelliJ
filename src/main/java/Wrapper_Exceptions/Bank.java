@@ -1,4 +1,4 @@
-package WrapperException;
+package Wrapper_Exceptions;
 
 public class Bank {
     private String currency;

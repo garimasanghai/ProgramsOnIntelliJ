@@ -24,8 +24,8 @@ public class arrayListDemo3 {
         2. Stores multiple data type
         3. Built-in Functions
         */
-        // Collection list = new ArrayList(); // Dynamic Dispatch
-        // List list1 = new ArrayList(); // Dynamic Dispatch
+        // Collection list = new ArrayList(); // Dynamic Dispatch GrandFather ref child object
+        // List list1 = new ArrayList(); // Dynamic Dispatch - Father ref child object
 
         ArrayList studentList = new ArrayList();
         studentList.add("Pramod");

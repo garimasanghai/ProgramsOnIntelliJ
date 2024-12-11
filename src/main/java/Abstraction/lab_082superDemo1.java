@@ -8,7 +8,7 @@ public class lab_082superDemo1 {
 
 
 }
-
+//Creating a new car that inherits vehicle
 class Car extends Vehicle{
     private int maxSpeed = 281;
 

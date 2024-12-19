@@ -16,7 +16,7 @@ class Car extends Vehicle{
     void display() {
         System.out.println("Child");
     }
-
+//This is new
     Car(){
         super(10);
         System.out.println("DC Car");

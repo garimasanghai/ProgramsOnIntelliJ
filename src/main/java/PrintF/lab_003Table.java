@@ -8,6 +8,7 @@ public class lab_003Table {
         // after "" u need to write in reverse using variable name followed by comma ,
 
         System.out.printf("%d x 1 = %d", num, num * 1);
+        //will be replaced num     num*1
         System.out.printf("\n");
         System.out.printf("%d x 2 = %d", num, num * 2);
         System.out.printf("\n");
